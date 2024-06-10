@@ -8,7 +8,7 @@
 - Both groups navigated through an identical process sequence: an initial page, three subsequent steps, and finally, a confirmation page signaling process completion.
 - The goal is to see if the new design leads to a better user experience and higher process completion rates.
 
-## Dataset Source
+## Datasets
 - There are three datasets that will be used in this project:
     - Client Profiles (df_final_demo): Demographics like age, gender, and account details of our clients.
     - Digital Footprints (df_final_web_data): A detailed trace of client interactions online, divided into two parts: pt_1 and pt_2.
